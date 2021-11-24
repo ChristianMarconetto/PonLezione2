@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color:red;
+    text-align: center;
+}
+h2{
+    color:blue;
+    text-align: center;
+}
+img.sinistra{
+    width: 300px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 50px;
+}
+
+em{
+    color: red;
+}
